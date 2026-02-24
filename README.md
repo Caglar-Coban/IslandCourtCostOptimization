@@ -30,7 +30,7 @@ Calculate the absolute **minimum total cost** to guarantee your freedom based on
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Caglar-Coban/IslandCostCourtOptimization.git](https://github.com/Caglar-Coban/IslandCostCourtOptimization.git)
+   git clone [https://github.com/Caglar-Coban/IslandCourtCostOptimization.git](https://github.com/Caglar-Coban/IslandCourtCostOptimization.git)
 
 ## 📥 Download & Play (No IDE Required)
 
